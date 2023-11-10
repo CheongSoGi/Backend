@@ -1,14 +1,12 @@
 package com.geozibang.SobiBuffer.date.entity;
 
 import com.geozibang.SobiBuffer.date.dto.DateDto;
-import com.geozibang.SobiBuffer.sobi.entity.Sobi;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Data
 @Entity

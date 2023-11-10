@@ -9,7 +9,6 @@ import com.geozibang.SobiBuffer.sobi.repository.SobiRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.w3c.dom.ls.LSInput;
 
 import java.util.List;
 import java.util.Optional;
